@@ -15,6 +15,7 @@ namespace WorkingWithVisualStudio
         public static void Main(string[] args)
         {
             BuildWebHost(args).Run();
+            Console.WriteLine("Test");
         }
 
         public static IWebHost BuildWebHost(string[] args) =>
