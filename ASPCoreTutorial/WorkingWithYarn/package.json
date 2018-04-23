@@ -1,0 +1,13 @@
+{
+  "name": "WorkingWithYarn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ich",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.1.0",
+    "jquery": "^3.3.1",
+    "node.js": "^0.0.0",
+    "popper.js": "^1.14.3"
+  }
+}
